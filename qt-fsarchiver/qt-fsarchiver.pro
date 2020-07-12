@@ -56,7 +56,7 @@ RESOURCES += src/icon.qrc
 # install
  target.path = /usr/sbin
  icon.files = src/images/harddrive2.png
- icon.path = /usr/share/app-install/icons
+ icon.path = /usr/share/qt-fsarchiver/icons
  autostart.files = starter/qt-fsarchiver.desktop
  autostart.path = /usr/share/applications
  doc.files = doc
